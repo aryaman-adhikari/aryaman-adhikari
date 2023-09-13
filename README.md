@@ -3,8 +3,10 @@
 # Hi 👋, I'm Aaryaman Adhikari
 ## IT Student | Tech Enthusiast | Passionate about DevOps, Networking, and Web Development
 🌱 I’m currently learning C++ with OOP<br>💬 Ask me about Programming and Technology<br>⚡ Fun fact I like bits, not bytes<br>
+<img src="https://miro.medium.com/v2/resize:fit:960/1*06f6VMGAqEQoLQw8uzgPoA.gif">
 
 [![](https://visitcount.itsvg.in/api?id=aryaman-adhikari&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aaryaman.adhikari.3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryaman-adhikari-805819261/)
