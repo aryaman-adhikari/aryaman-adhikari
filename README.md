@@ -7,8 +7,8 @@
 [![](https://visitcount.itsvg.in/api?id=aryaman-adhikari&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐Connect with me:
-[![Facebook](https://https://www.facebook.com/aaryaman.adhikari.3)
-[![LinkedIn](https://https://www.linkedin.com/in/aaryaman-adhikari-805819261/) 
+[![Facebook](https://www.facebook.com/aaryaman.adhikari.3)
+[![LinkedIn](https://www.linkedin.com/in/aaryaman-adhikari-805819261/) 
 
 # ⚒️Language and Tools:
   <a href="https://skillicons.dev">
